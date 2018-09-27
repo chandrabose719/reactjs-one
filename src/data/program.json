@@ -1,0 +1,58 @@
+[
+	{
+		"program_id": "1",
+		"program_name": "Fun Camp",
+		"program_grade": "3",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "2",
+		"program_name": "Classic Camp",
+		"program_grade": "4",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "3",
+		"program_name": "Space Engineering",
+		"program_grade": "6",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "4",
+		"program_name": "Fashion Engineering",
+		"program_grade": "6",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "5",
+		"program_name": "Robotics Camp",
+		"program_grade": "8",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "6",
+		"program_name": "Adventure Camp",
+		"program_grade": "4",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	},
+	{
+		"program_id": "7",
+		"program_name": "Explorer Camp",
+		"program_grade": "5",
+		"program_duration": "6",
+		"program_cost": "100",
+		"status": "active"
+	}
+]

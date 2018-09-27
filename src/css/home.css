@@ -1,0 +1,45 @@
+/*Home*/
+#home{
+	width:100%;
+	background:#f8f8f8; 
+}
+#home .container{
+	padding:100px 0px;  
+}
+#home .home-content{
+	padding:60px 0px 20px 0px; 
+}
+#home .home-content h2{
+	padding:10px 5px;   
+}
+/*Home Image*/
+#home-image{
+	width:100%;
+	background:#ffffff; 
+}
+#home-image .container{
+	padding:20px 0px; 
+}
+#home-image .home-image-content{
+	padding:10px 0px;
+	text-align:center;  
+	text-align:-webkit-center;  
+	text-align:-moz-center;  
+}
+/*Home Program*/
+#home-program{
+	width:100%;
+	background:#ffffff; 
+}
+#home-program .container{
+	padding:20px 0px 60px 0px;  
+}
+#home-program .home-program-content{
+	padding:10px 0px; 
+}
+#home-program .home-program-content h4{
+	padding:10px 0px; 
+}
+#home-program .home-program-content p{
+	text-align:justify;  
+}
